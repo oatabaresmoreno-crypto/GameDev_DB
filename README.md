@@ -40,7 +40,7 @@ La aplicación cuenta con 4 pestañas principales:
 
 **1. Clona el repositorio:**
 ```bash
-git clone https://github.com/tu-usuario/gamedev-management.git
+git clone https://github.com/oatabaresmoreno-crypto/GameDev_DB.git
 cd gamedev-management
 ```
 
